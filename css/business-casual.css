@@ -92,7 +92,7 @@ p {
   color: #7d93b1;
 }
 
-@media (min-width: 890px) {
+@media (min-width: 500px) {
   #mainNav .navbar-nav .nav-item .nav-link {
     font-size: 0.9rem;
   }
