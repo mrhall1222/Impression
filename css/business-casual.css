@@ -187,8 +187,8 @@ p {
   .product-item .product-item-img {
     position: relative;
     z-index: 0;
-    max-width: 40vw;
-    max-height: 40vw;
+    max-width: 50vw;
+    max-height: 50vw;
   }
   .product-item .product-item-description {
     position: relative;
