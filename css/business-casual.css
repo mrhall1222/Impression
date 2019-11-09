@@ -242,13 +242,13 @@ p {
 }
 
 .btn-primary {
-  background-color: #e6a756;
-  border-color: #e6a756;
+  background-color: #fe8b86;
+  border-color: #fe8b86;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #df902a;
-  border-color: #df902a;
+  background-color: #f76a65;
+  border-color: #f76a65;
 }
 
 .font-weight-light {
