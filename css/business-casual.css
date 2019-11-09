@@ -97,10 +97,10 @@ p {
     font-size: 0.9rem;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
-    color: rgba(255, 255, 255, 0.4);
+    color: rgba(33, 53, 235, 0.822);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: #2d3ed3;
+    color: #1529df;
   }
 }
 
