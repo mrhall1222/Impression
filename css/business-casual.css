@@ -148,6 +148,13 @@ p {
   background-color: #7d93b1b7;
 }
 
+#phone {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .cta .cta-inner {
   position: relative;
   padding: 3rem;
