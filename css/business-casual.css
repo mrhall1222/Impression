@@ -221,7 +221,7 @@ p {
   color: #e6a756;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 100px) {
   .list-hours {
     width: 50%;
     font-size: 1.1rem;
