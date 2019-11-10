@@ -187,7 +187,7 @@ p {
 
 @media (min-width: 992px) {
   .product-item .product-item-title {
-    position: left;
+    position: Left;
     z-index: 1;
     margin-bottom: -3rem;
   }
