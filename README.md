@@ -1,4 +1,4 @@
 # Impression
-## A mobile app meant to increase art exposure to the world as well as connect Artists with Clients. 
+## A mobile app meant to increase art exposure in the world as well as connect Artists with Clients. 
 
 #### I do not have a lot of developing experience, so this was quite a challenge for me. I drew inspiration from one of the most critical problems in the art industry today: brand exposure and booking gigs. I wanted to give people an easy way to access art and in a familiar way as it relates closely to other social media apps on the market. I was not able to actually build the app unfortunately with my lack of experience. However, I am hoping my website will sell the idea of it as if it were in development.
