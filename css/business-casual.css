@@ -143,8 +143,8 @@ p {
 }
 
 .cta {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #7d93b1b7;
 }
 
@@ -157,7 +157,7 @@ p {
 
 .cta .cta-inner {
   position: relative;
-  padding: 3rem;
+  padding: 2rem;
   margin: 0.5rem;
   background-color: rgba(255, 255, 255, 0.85);
 }
