@@ -256,9 +256,7 @@ p {
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background-color: #f76a65;
   border-color: #f76a65;
-  -webkit-transform: scale(1.2);
-        -ms-transform: scale(1.2);
-        transform: scale(1.2);
+  box-shadow: inset 0 0 0 25px #f76a65;
 }
 
 .font-weight-light {
