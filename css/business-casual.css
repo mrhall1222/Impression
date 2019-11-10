@@ -187,18 +187,18 @@ p {
 
 @media (min-width: 992px) {
   .product-item .product-item-title {
-    position: Left;
+    position: relative;
     z-index: 1;
     margin-bottom: -3rem;
   }
   .product-item .product-item-img {
-    position: Left;
+    position: relative;
     z-index: 0;
     max-width: 50vw;
     max-height: 50vw;
   }
   .product-item .product-item-description {
-    position: Left;
+    position: relative;
     z-index: 1;
     margin-top: -3rem;
     max-width: 50vw;
